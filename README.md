@@ -1,5 +1,6 @@
 (english)
 hi.
+
 my name's john, but you probably know me as adummyguy. or dummy, waffle, aduymug, whatever nickname i go by.
 
 i'm doing my first year of computer engineering at the moment, and that's what this github account is mostly gonna be for (at least for now)
@@ -18,10 +19,11 @@ i know how to use a few game engines such as construct, gamemaker studio and uni
 
 for now, that's about it
 
-
+---
 
 (português)
 oi.
+
 meu nome é joão, mas outras pessoas na internet podem me conhecer por adummyguy. ou dummy, waffle, aduymug, sei lá o quê.
 
 no momento, estou fazendo meu primeiro ano de engenharia da computação, e é isso que essa conta no github vai provavelmente ser sobre por enquanto
